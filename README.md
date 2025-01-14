@@ -1,17 +1,20 @@
-# Employee Retention Prediction - (Machine Learning and Django)
+# Employee Retention Prediction - (ML and Django)
 
 ## Overview
-Employee retention is a critical challenge for organizations striving to maintain a talented workforce. This project aims to predict employee turnover using machine learning techniques, providing actionable insights to HR departments.
+Employee retention is a critical challenge for organizations striving to maintain a talented workforce. This project predicts whether an employee is likely to look for a job change based on specific input features.
 ## Features
 - **Data Analysis**: Cleaned and analyzed employee data to identify significant factors influencing retention.
-- **Machine Learning Model**: Built a predictive model using algorithms like Logistic Regression, Random Forest, and XGBoost.
+- **Machine Learning Model**: Built a predictive model using Random Forest Algorithm
 - **Web Application**: Developed a user-friendly interface with Django to interact with the model.
 - **Deployment**: Hosted the application on Render for live access.
 
 ## Live Demo
-Access the live project here: [https://erp-ng3o.onrender.com](https://erp-ng3o.onrender.com)
+Access the live project here 👉 [https://erp-ng3o.onrender.com](https://erp-ng3o.onrender.com)
 
-**Note:** Since I am using the free version of Render, the site will only stay live for 15 minutes at a time. If you want to see the live website, feel free to ping me on [LinkedIn](https://www.linkedin.com/in/shreyashnarvekar) 
+**Note:** Since I am using the free version of Render, the site will only stay live for 15 minutes at a time. If you want to see the live website, feel free to ping me on 👉 [LinkedIn](https://www.linkedin.com/in/shreyashnarvekar) 
+
+## For Local Host Deployment
+Click here 👉 [ERP - Localhost GitHub](https://github.com/shreyashnarvekar/Employee-Retention-Prediction---ML-and-Django.git)
 
 ## Project Structure
 ```
@@ -119,4 +122,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests for 
 ## Contact
 For any questions or feedback, contact:
 **Shreyash Narvekar**  
-[LinkedIn](https://www.linkedin.com/in/shreyashnarvekar) | [GitHub](https://github.com/shreyashnarvekar)
+👉 [LinkedIn](https://www.linkedin.com/in/shreyashnarvekar) | 👉 [GitHub](https://github.com/shreyashnarvekar)
